@@ -18,8 +18,8 @@ by entering user's inputs to a series of prompt.
 
 ## Installation:
 To use this application, a user must install VS code to read and write code. 
-Then, a user must install node.js and install two dependencies called "inquirer" and "jest" by typing "npm i inquirer" and "npm i jest". 
-Please not that although there are many versions for node inquirer, version 8.2.4 is most recommended. 
+Then, a user must install node.js and install two dependencies called "inquirer" and "jest" by typing "npm i inquirer" and "npm i jest" to a VS code terminal. 
+Please note that although there are many versions for node inquirer, version 8.2.4 is most recommended. 
 
 ## Usage:
 This app is recommended for any users who have limited time and looking for a quick and convenient way to create a logo. 
